@@ -1,0 +1,10 @@
+# Requirements for Monocular Depth Estimation and YOLO Integration
+
+## Software Requirements
+- **Python Version**: 3.7 or higher.
+- **Core Libraries**: 
+  - PyTorch (for model operations)
+  - NumPy (numerical operations)
+  - OpenCV (image and video processing)
+  - ConfigParser (configuration handling)
+  - ONNX (optional, for model export)
